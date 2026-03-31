@@ -1,2 +1,2 @@
-# hotel-demo
-This is my first git repository
+# hotel-website
+My hotel website project
